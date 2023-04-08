@@ -11,9 +11,6 @@ Let me know if you need further assistance!
 
 
 
-Regenerate response
-:point_right: PARTICLE JS <br> 
-
 
 
 
